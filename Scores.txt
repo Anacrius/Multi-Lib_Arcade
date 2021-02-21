@@ -1,0 +1,11 @@
+nibbler|SSQ|20
+pacman|09M|1150
+nibbler|FOO|0
+nibbler|SDD|0
+nibbler|TEST|60
+nibbler|TEST|10
+nibbler|TEST|20
+pacman|TEST|20
+pacman|TEST|20
+nibbler|ZERT|160
+nibbler|AAM|50
